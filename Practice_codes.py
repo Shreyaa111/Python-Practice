@@ -1,5 +1,4 @@
-# learnt below :
-# printing , # string , # input , # variables #new line, #concatenation, #errors, #spaces
+# learnt : # printing , # string , # input , # variables #new line, #concatenation, #debugging, #spaces, #commenting
 
 #Print string with concatenation with space
 print("Hi"+" "+"Shreya" + "\nGood Night")

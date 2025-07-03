@@ -1,3 +1,6 @@
+# learnt below :
+# printing , # string , # input , # variables #new line, #concatenation, #errors, #spaces
+
 #Print string with concatenation with space
 print("Hi"+" "+"Shreya" + "\nGood Night")
 
@@ -46,11 +49,7 @@ Pet = input("Your pet name\n")
 print("Place:",Place , "and Pet:", Pet)
 print("Your Band name is: "+ Place+" "+Pet) #this is best 
 
-# learnt below :
-# printing
-# string
-# input
-# variables
+
   
 
 
